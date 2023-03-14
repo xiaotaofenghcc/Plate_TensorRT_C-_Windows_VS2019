@@ -1,4 +1,4 @@
-# Plate_Det_REC_TensorRT_C++_VS2019
+# Plate_Det_Rec_TensorRT_C++_VS2019
 最近准备在工控机端利用TensorRT部署车牌检测和车牌识别，代码从 https://github.com/we0091234/chinese_plate_tensorrt 这位大佬的网址下载的，在自己电脑上部署时需要注意一些细节，在此记录如下
 
 # 环境要求
